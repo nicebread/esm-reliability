@@ -1,0 +1,1963 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\ifdefined\DeclarePrefChars\DeclarePrefChars{'’-}\else\fi%
+}
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{adolf_ErgodicitySufficientNot_2019}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2f72491d0513ddf7ffcd390355836da8}{%
+           family={Adolf},
+           familyi={A\bibinitperiod},
+           given={Janne\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=880a3f41ee6c5bd05a50395c89485cdb}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Eiko\bibnamedelima I.},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f5af411a2f074a8836eee5098e283e4}
+      \strng{fullhash}{0f5af411a2f074a8836eee5098e283e4}
+      \strng{bibnamehash}{0f5af411a2f074a8836eee5098e283e4}
+      \strng{authorbibnamehash}{0f5af411a2f074a8836eee5098e283e4}
+      \strng{authornamehash}{0f5af411a2f074a8836eee5098e283e4}
+      \strng{authorfullhash}{0f5af411a2f074a8836eee5098e283e4}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Researchers commonly draw inferences from the group level to the individual and vice versa—that is, across levels. One of the empirical cornerstones of medicine is the clinical trial that tests the efficacy of a drug compared with placebo. If the intervention group outperforms the placebo group, the conclusion is that the drug should be prescribed for individuals with a given disorder. When are such inferences across levels defensible? In their recent paper in PNAS, Fisher et al. (1) state that “statistical findings at the interindividual (group) level only generalize to the intraindividual (person) level if the processes in question are ergodic,” meaning that the effects of … [↵][1]1To whom correspondence should be addressed. Email: janne.adolf\{at\}kuleuven.be. [1]: \#xref-corresp-1-1}
+      \field{day}{14}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shortjournal}{PNAS}
+      \field{title}{Ergodicity Is Sufficient but Not Necessary for Group-to-Individual Generalizability}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{201818675}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1073/pnas.1818675116
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/WRBY8PNC/1818675116.html
+      \endverb
+    \endentry
+    \entry{aron_inclusion_1992}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=95de46e4fd467d45f2568eebf6b0a13e}{%
+           family={Aron},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0006255c10882fbf51825dc405b3a158}{%
+           family={Aron},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f7fe48c580ded482b2f542b516b41c42}{%
+           family={Smollan},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05e1e8fde7191fa0b459cd6817a0f5a8}
+      \strng{fullhash}{7b96dd99211fbe2cc896053ebba0961a}
+      \strng{bibnamehash}{7b96dd99211fbe2cc896053ebba0961a}
+      \strng{authorbibnamehash}{7b96dd99211fbe2cc896053ebba0961a}
+      \strng{authornamehash}{05e1e8fde7191fa0b459cd6817a0f5a8}
+      \strng{authorfullhash}{7b96dd99211fbe2cc896053ebba0961a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{shortjournal}{Journal of Personality and Social Psychology}
+      \field{title}{Inclusion of {{Other}} in the {{Self Scale}} and the Structure of Interpersonal Closeness}
+      \field{volume}{63}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{596\bibrangedash 612}
+      \range{pages}{17}
+      \keyw{reliability & validity of pictorial Inclusion of Other in Self Scale;; assessment of closeness in interpersonal relations; college students & other; adults; Interpersonal Interaction; Intimacy; Rating Scales; Test Reliability; Test Validity; Journal}
+    \endentry
+    \entry{arslan_FormrStudyFramework_2019}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=370f1a6248bbc2cda82b5d2fb88d036a}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={Ruben\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b3e6094c757e9995f1d9aeb5df39f09}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Matthias\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df644216bdf181753f854caa9f80a5bc}{%
+           family={Tata},
+           familyi={T\bibinitperiod},
+           given={Cyril\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b84892813dab99b3312471d09224eed9}
+      \strng{fullhash}{bcfff2ecd9de0e61186e5508988f3950}
+      \strng{bibnamehash}{bcfff2ecd9de0e61186e5508988f3950}
+      \strng{authorbibnamehash}{bcfff2ecd9de0e61186e5508988f3950}
+      \strng{authornamehash}{b84892813dab99b3312471d09224eed9}
+      \strng{authorfullhash}{bcfff2ecd9de0e61186e5508988f3950}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Open-source software improves the reproducibility of scientific research. Because existing open-source tools often do not offer dedicated support for longitudinal data collection on phones and computers, we built formr, a study framework that enables researchers to conduct both simple surveys and more intricate studies. With automated email and text message reminders that can be sent according to any schedule, longitudinal and experience-sampling studies become easy to implement. By integrating a web-based application programming interface for the statistical programming language R via OpenCPU, formr allows researchers to use a familiar programming language to enable complex features. These can range from adaptive testing, to graphical and interactive feedback, to integration with non-survey data sources such as self-trackers or online social network data. Here we showcase three studies created in formr: a study of couples with dyadic feedback; a longitudinal study over months, which included social networks and peer and partner ratings; and a diary study with daily invitations sent out by text message and email and extensive feedback on intraindividual patterns.}
+      \field{day}{1}
+      \field{issn}{1554-3528}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shortjournal}{Behav Res}
+      \field{shorttitle}{Formr}
+      \field{title}{Formr: {{A}} Study Framework Allowing for Automated Feedback Generation and Complex Longitudinal Experience-Sampling Studies Using {{R}}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3758/s13428-019-01236-y
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/2N2AWAJN/Arslan et al. - 2019 - formr A study framework allowing for automated fe.pdf
+      \endverb
+      \keyw{Feedback,Online,R,Study,Survey,Web}
+    \endentry
+    \entry{bakan_duality_1966}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=426202e3b6f659d4fe8cccc357c2596a}{%
+           family={Bakan},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {Rand McNally}%
+      }
+      \strng{namehash}{426202e3b6f659d4fe8cccc357c2596a}
+      \strng{fullhash}{426202e3b6f659d4fe8cccc357c2596a}
+      \strng{bibnamehash}{426202e3b6f659d4fe8cccc357c2596a}
+      \strng{authorbibnamehash}{426202e3b6f659d4fe8cccc357c2596a}
+      \strng{authornamehash}{426202e3b6f659d4fe8cccc357c2596a}
+      \strng{authorfullhash}{426202e3b6f659d4fe8cccc357c2596a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Duality of Human Existence: {A}n Essay on Psychology and Religion}
+      \field{year}{1966}
+      \field{dateera}{ce}
+      \keyw{& PSYCHOLOGY; BOOK; Psychology; Religion}
+    \endentry
+    \entry{bates_FittingLinearMixedEffects_2015}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=291c4bc67cf41a2019405a2328a9b75e}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9cd1e56848b277b4f48a6e0b817ba5ab}{%
+           family={Mächler},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6b13be971f13ee03cc83cded41b6d7e}{%
+           family={Bolker},
+           familyi={B\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3face7d9e1128ebfefc56b5f54f28451}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d09b320744f09c093eb8b0d7f6bbdda0}
+      \strng{fullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{bibnamehash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{authorbibnamehash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{authornamehash}{d09b320744f09c093eb8b0d7f6bbdda0}
+      \strng{authorfullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{title}{Fitting {{Linear Mixed}}-{{Effects Models Using}} Lme4}
+      \field{volume}{67}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.18637/jss.v067.i01
+      \endverb
+    \endentry
+    \entry{berridge_MotivationConceptsBehavioral_2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dd88c1637f41370b5664a51e81f61ff1}{%
+           family={Berridge},
+           familyi={B\bibinitperiod},
+           given={Kent\bibnamedelima C},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd88c1637f41370b5664a51e81f61ff1}
+      \strng{fullhash}{dd88c1637f41370b5664a51e81f61ff1}
+      \strng{bibnamehash}{dd88c1637f41370b5664a51e81f61ff1}
+      \strng{authorbibnamehash}{dd88c1637f41370b5664a51e81f61ff1}
+      \strng{authornamehash}{dd88c1637f41370b5664a51e81f61ff1}
+      \strng{authorfullhash}{dd88c1637f41370b5664a51e81f61ff1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00319384}
+      \field{journaltitle}{Physiology \& Behavior}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Motivation Concepts in Behavioral Neuroscience}
+      \field{volume}{81}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{179\bibrangedash 209}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/j.physbeh.2004.02.004
+      \endverb
+    \endentry
+    \entry{borkenau_BigFiveStates_1998}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=dff42d14af359d301ff9d8d87f6d10e1}{%
+           family={Borkenau},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4a113aaaa1f79f6550e8879406657e10}{%
+           family={Ostendorf},
+           familyi={O\bibinitperiod},
+           given={Fritz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ae81ccf5182efc1b88ae97406d79097}
+      \strng{fullhash}{7ae81ccf5182efc1b88ae97406d79097}
+      \strng{bibnamehash}{7ae81ccf5182efc1b88ae97406d79097}
+      \strng{authorbibnamehash}{7ae81ccf5182efc1b88ae97406d79097}
+      \strng{authornamehash}{7ae81ccf5182efc1b88ae97406d79097}
+      \strng{authorfullhash}{7ae81ccf5182efc1b88ae97406d79097}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigated the similarity between the factor structure of longitudinal variations in states and the factor structure of individual differences in traits. On 90 consecutive days, 22 students self-administered 30 self-report items that were markers of the Big Five. Most participants showed good discrimination among the 90 measurement occasions. Correlations were computed between items across measurement occasions. These P-correlations were factored, and the factor matrices were target rotated toward a reference factor structure of individual differences, using orthogonal Procrustes rotations. A substantial match was obtained between the factor structure of longitudinal correlations that had been averaged across participants and the factor structure of individual differences. For individual participants, this factor match was worse. It is concluded that the Big Five are useful to describe longitudinal variations in states. A sharp distinction between the five-factor model and the trait approach is recommended.}
+      \field{day}{1}
+      \field{issn}{0092-6566}
+      \field{journaltitle}{Journal of Research in Personality}
+      \field{month}{6}
+      \field{shortjournal}{Journal of Research in Personality}
+      \field{shorttitle}{The {{Big Five}} as {{States}}}
+      \field{title}{The {{Big Five}} as {{States}}: {{How Useful Is}} the {{Five}}-{{Factor Model}} to {{Describe Intraindividual Variations}} over {{Time}}?}
+      \field{volume}{32}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{202\bibrangedash 221}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1006/jrpe.1997.2206
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/PTGDCIKA/S0092656697922066.html
+      \endverb
+    \endentry
+    \entry{brose_DifferencesBetweenPersonWithinPerson_2015}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=4dc2cf324f95003937d6f793b453aa8a}{%
+           family={Brose},
+           familyi={B\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=614f045f1d8a1c475613d619d6e20262}{%
+           family={Voelkle},
+           familyi={V\bibinitperiod},
+           given={Manuel\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54f3fc19b92d5d93b03f0d4cc99d4af0}{%
+           family={Lövdén},
+           familyi={L\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7dd1dcc34fe50175ab15dcedf2db02e5}{%
+           family={Lindenberger},
+           familyi={L\bibinitperiod},
+           given={Ulman},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e72066ab844b7ba53e078528d308f09}{%
+           family={Schmiedek},
+           familyi={S\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3c02008addc65799e59eae91a6a083bd}
+      \strng{fullhash}{380f4fb24536e06f7a36833bb86cb7d4}
+      \strng{bibnamehash}{380f4fb24536e06f7a36833bb86cb7d4}
+      \strng{authorbibnamehash}{380f4fb24536e06f7a36833bb86cb7d4}
+      \strng{authornamehash}{3c02008addc65799e59eae91a6a083bd}
+      \strng{authorfullhash}{380f4fb24536e06f7a36833bb86cb7d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study tested whether the structure of affect observed on the basis of between-person (BP) differences is equivalent to the affect structures that organize the variability of affective states within persons (WP) over time. Further aims were to identify individual differences in the degree of divergence between the WP and BP structure and examine its association to dispositional and contextual variables (neuroticism, extraversion, well-being and stress). In 100 daily sessions, 101 younger adults rated their mood on the Positive and Negative Affect Schedule. Variability of five negative affect items across time was so low that they were excluded from the analyses. We thus worked with a modified negative affect subscale. WP affect structures diverged reliably from the BP structure, with individual differences in the degree of divergence. Differences in the WP structural characteristics and the degree of divergence could be predicted by well-being and stress. We conclude that BP and WP structures of affect are not equivalent and that BP and WP variation should be considered as distinct phenomena. It would be wrong, for example, to conceive of positive and negative affect as independent at the WP level, as suggested by BP findings. Yet, individual differences in WP structural characteristics are related to stable BP differences, and the degree to which individuals' affect structures diverge from the BP structure can provide important insights into intraindividual functioning. Copyright © 2014 European Association of Personality Psychology}
+      \field{issn}{1099-0984}
+      \field{journaltitle}{European Journal of Personality}
+      \field{langid}{english}
+      \field{title}{Differences in the {{Between}}-{{Person}} and {{Within}}-{{Person Structures}} of {{Affect Are}} a {{Matter}} of {{Degree}}}
+      \field{volume}{29}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{55\bibrangedash 71}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/per.1961
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/Z57DSGQX/per.html
+      \endverb
+      \keyw{ergodicity,intraindividual variability,microlongitudinal design,PANAS,positive and negative affect}
+    \endentry
+    \entry{cranford_ProcedureEvaluatingSensitivity_2006}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=97c4d80ced41816f52d643637c26d0d5}{%
+           family={Cranford},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e09406d6b6ab076e535b2b9165ff6601}{%
+           family={Shrout},
+           familyi={S\bibinitperiod},
+           given={Patrick\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9685e9ad0ddcd1a83455c52ca38ac83c}{%
+           family={Iida},
+           familyi={I\bibinitperiod},
+           given={Masumi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=af8276583519c0f9169a8e36498adabe}{%
+           family={Rafaeli},
+           familyi={R\bibinitperiod},
+           given={Eshkol},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8cbdd20bd46fcf34b9415a3070e22183}{%
+           family={Yip},
+           familyi={Y\bibinitperiod},
+           given={Tiffany},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1683f293759a9bcb303f7873da38210a}{%
+           family={Bolger},
+           familyi={B\bibinitperiod},
+           given={Niall},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69d68b128fb50d617443d26a40dfc0cb}
+      \strng{fullhash}{41a483abc63dfb0e979bdb1e11ef0aa1}
+      \strng{bibnamehash}{41a483abc63dfb0e979bdb1e11ef0aa1}
+      \strng{authorbibnamehash}{41a483abc63dfb0e979bdb1e11ef0aa1}
+      \strng{authornamehash}{69d68b128fb50d617443d26a40dfc0cb}
+      \strng{authorfullhash}{41a483abc63dfb0e979bdb1e11ef0aa1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The recent growth in diary and experience sampling research has increased research attention on how people change over time in natural settings. Often however, the measures in these studies were originally developed for studying between-person differences, and their sensitivity to within-person changes is usually unknown. Using a Generalizability Theory framework, the authors illustrate a procedure for developing reliable measures of change using a version of the Profile of Mood States (POMS; McNair, Lorr, \& Droppleman, 1992) shortened for diary studies. Analyzing two data sets, one composed of 35 daily reports from 68 persons experiencing a stressful examination and another composed of daily reports from 164 persons over a typical 28-day period, we demonstrate that three-item measures of anxious mood, depressed mood, anger, fatigue, and vigor have appropriate reliability to detect within-person change processes.}
+      \field{day}{1}
+      \field{issn}{0146-1672}
+      \field{journaltitle}{Personality and Social Psychology Bulletin}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shortjournal}{Pers Soc Psychol Bull}
+      \field{shorttitle}{A {{Procedure}} for {{Evaluating Sensitivity}} to {{Within}}-{{Person Change}}}
+      \field{title}{A {{Procedure}} for {{Evaluating Sensitivity}} to {{Within}}-{{Person Change}}: {{Can Mood Measures}} in {{Diary Studies Detect Change Reliably}}?}
+      \field{volume}{32}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{917\bibrangedash 929}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1177/0146167206287721
+      \endverb
+    \endentry
+    \entry{fisher_LackGrouptoindividualGeneralizability_2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=dae018c1ba2128b0404870789bec5e43}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Aaron\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37c1d0af7a9bbc09488dbbbd18d55b76}{%
+           family={Medaglia},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2d6eaa64643c0000b7be895bb565e80b}{%
+           family={Jeronimus},
+           familyi={J\bibinitperiod},
+           given={Bertus\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b3d549ad16880e5a931f8c76a8813b9}
+      \strng{fullhash}{1735d27d53e87356a7519e67fd96bda4}
+      \strng{bibnamehash}{1735d27d53e87356a7519e67fd96bda4}
+      \strng{authorbibnamehash}{1735d27d53e87356a7519e67fd96bda4}
+      \strng{authornamehash}{3b3d549ad16880e5a931f8c76a8813b9}
+      \strng{authorfullhash}{1735d27d53e87356a7519e67fd96bda4}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Lack of Group-to-Individual Generalizability Is a Threat to Human Subjects Research}
+      \field{volume}{115}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{E6106\bibrangedash E6115}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.1711978115
+      \endverb
+    \endentry
+    \entry{fleeson_StructureProcessintegratedView_2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5740ccd646cd4a90c179270d9feeef5e}{%
+           family={Fleeson},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5740ccd646cd4a90c179270d9feeef5e}
+      \strng{fullhash}{5740ccd646cd4a90c179270d9feeef5e}
+      \strng{bibnamehash}{5740ccd646cd4a90c179270d9feeef5e}
+      \strng{authorbibnamehash}{5740ccd646cd4a90c179270d9feeef5e}
+      \strng{authornamehash}{5740ccd646cd4a90c179270d9feeef5e}
+      \strng{authorfullhash}{5740ccd646cd4a90c179270d9feeef5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1315, 0022-3514}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{langid}{english}
+      \field{shorttitle}{Toward a Structure- and Process-Integrated View of Personality}
+      \field{title}{Toward a Structure- and Process-Integrated View of Personality: {{Traits}} as Density Distributions of States.}
+      \field{volume}{80}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{1011\bibrangedash 1027}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1037/0022-3514.80.6.1011
+      \endverb
+    \endentry
+    \entry{grice_BridgingIdiographicNomotheticDivide_2006}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=9aa60ca2c6dc2b92929ca6bfcdee1af1}{%
+           family={Grice},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=367952793551000baee199012672f570}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Bobby\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=06653a3663a9785fba63b8d3c0b08f37}{%
+           family={McDaniel},
+           familyi={M\bibinitperiod},
+           given={Brenda\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6a12fadea733b45ad4c1168d9a8b625}
+      \strng{fullhash}{b0d1ca08827bad2c688689491e12c285}
+      \strng{bibnamehash}{b0d1ca08827bad2c688689491e12c285}
+      \strng{authorbibnamehash}{b0d1ca08827bad2c688689491e12c285}
+      \strng{authornamehash}{d6a12fadea733b45ad4c1168d9a8b625}
+      \strng{authorfullhash}{b0d1ca08827bad2c688689491e12c285}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In a replication and extension of Grice (2004), participants in the current study rated themselves and other known individuals on scales constructed from their own personal constructs and on marker items for the Big Five model personality traits. Confirmatory components analyses revealed excellent fit for the Big Five Model when applied to aggregate trait ratings but highly variable fit when applied to participants' individual ratings. Comparisons of the personal construct and trait ratings indicated an approximate average overlap of only 51\%, and additional analyses revealed several factors that contributed to the uniqueness of the personal constructs. These findings were discussed in the context of the idiographic-nomothetic distinction drawn in personality psychology.}
+      \field{issn}{1467-6494}
+      \field{journaltitle}{Journal of Personality}
+      \field{langid}{english}
+      \field{shorttitle}{Bridging the {{Idiographic}}-{{Nomothetic Divide}}}
+      \field{title}{Bridging the {{Idiographic}}-{{Nomothetic Divide}}: {{A Follow}}-{{Up Study}}}
+      \field{volume}{74}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{1191\bibrangedash 1218}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1111/j.1467-6494.2006.00407.x
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/XJN8KTYW/j.1467-6494.2006.00407.html
+      \endverb
+    \endentry
+    \entry{hagemeyer_congruence_2013}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=c874c43781571d76efae015342e372dd}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c20e08c43f9b8d8a70416f78bb54db8}{%
+           family={Neberich},
+           familyi={N\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=789e5e7c96b5453d053e506c05cde360}{%
+           family={Asendorpf},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=49a7ea55c963b912675965a28c96a746}{%
+           family={Neyer},
+           familyi={N\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddf1a6faf0e34cfab87ed9e26f4317f5}
+      \strng{fullhash}{84c373e8c04137d8d929dd16f73bf994}
+      \strng{bibnamehash}{84c373e8c04137d8d929dd16f73bf994}
+      \strng{authorbibnamehash}{84c373e8c04137d8d929dd16f73bf994}
+      \strng{authornamehash}{ddf1a6faf0e34cfab87ed9e26f4317f5}
+      \strng{authorfullhash}{84c373e8c04137d8d929dd16f73bf994}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective Previous research has shown that motive congruence, as observed in convergingly high or low scores on implicit and explicit motive measures, promotes well-being and health. Extending this individual perspective to the realm of couple relationships, the present investigation examined intra- and interpersonal effects of communal motive (in)congruence on relationship satisfaction and stability. Method The implicit partner-related need for communion, the explicit desire for closeness, and relationship satisfaction were assessed in a sample of 547 heterosexual couples aged 18 to 73 years. In a one-year follow-up study, information on relationship stability was obtained, and relationship satisfaction was reassessed. The researchers tested cross-sectional and longitudinal effects of motive (in)congruence by dyadic moderation analyses. Results Individuals scoring congruently high on both motives reported the highest relationship satisfaction in concurrence with motive assessment and 1 year later. In addition, motive incongruence predicted an increased risk of relationship breakup over 1 year. Conclusions The results highlight the significance of both implicit and explicit motives for couple relationships. Motive incongruence was confirmed as a dispositional risk factor that so far has not been considered in couple research. Future research directions addressing potential mediators of the observed effects and potential moderators of motive (in)congruence are discussed.}
+      \field{issn}{1467-6494}
+      \field{journaltitle}{Journal of Personality}
+      \field{langid}{english}
+      \field{title}{({{In}}){{Congruence}} of Implicit and Explicit Communal Motives Predicts the Quality and Stability of Couple Relationships}
+      \field{volume}{81}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{390\bibrangedash 402}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/jopy.12016
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/PC5CH97Z/abstract.html
+      \endverb
+      \keyw{implicit motives,Motive congruence,social motivation,communion,couple relationships}
+    \endentry
+    \entry{hagemeyer_AssessingImplicitMotivational_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=53afaf76079780380091989e001331e4}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={Birk},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2dbf178133724eb85b53ae9fc9c823c0}{%
+           family={Neyer},
+           familyi={N\bibinitperiod},
+           given={Franz\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e21ecc9189819d4f5242720bac98dc4}
+      \strng{fullhash}{8e21ecc9189819d4f5242720bac98dc4}
+      \strng{bibnamehash}{8e21ecc9189819d4f5242720bac98dc4}
+      \strng{authorbibnamehash}{8e21ecc9189819d4f5242720bac98dc4}
+      \strng{authornamehash}{8e21ecc9189819d4f5242720bac98dc4}
+      \strng{authorfullhash}{8e21ecc9189819d4f5242720bac98dc4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Partner-Related Agency and Communion Test (PACT) was developed to measure implicit agentic and communal needs in the domain of couple relationships through content analyses of fantasy stories. Study 1 (N = 125) confirmed that the new thematic coding system captured experimentally induced differences in partner-related motivation and showed expected relations with D. G. Winter's (1994) motive scoring system. Study 2 confirmed the discriminant and incremental validity of the implicit partner-related needs compared with self-report measures of the Big Five traits and adult attachment in a sample of 499 couples. In addition, dyadic analyses revealed expected associations of the partner-related needs with relationship satisfaction as experienced by oneself and by one's partner. The studies lend initial support to the validity of the relationship-specific needs for agency and communion as assessed by the PACT and introduce dyadic data analyses to the study of implicit motives.}
+      \field{eprinttype}{pmid}
+      \field{issn}{1939-134X}
+      \field{journaltitle}{Psychological Assessment}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shortjournal}{Psychol Assess}
+      \field{shorttitle}{Assessing Implicit Motivational Orientations in Couple Relationships}
+      \field{title}{Assessing Implicit Motivational Orientations in Couple Relationships: {T}he {{Partner}}-{{Related Agency}} and {{Communion Test}} ({{PACT}})}
+      \field{volume}{24}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{114\bibrangedash 128}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1037/a0024822
+      \endverb
+      \verb{eprint}
+      \verb 21787092
+      \endverb
+      \keyw{Motivation,Self Concept,Analysis of Variance,Spouses,Cues,Adolescent,Adult,Female,Humans,Male,Psychometrics,Models; Psychological,Aged,Fantasy,Middle Aged,Personal Satisfaction,Data Interpretation; Statistical,Interpersonal Relations,Memory; Episodic,Object Attachment,Personality Tests,Power (Psychology),Psychological Theory,Sex Characteristics,Young Adult}
+    \endentry
+    \entry{hagemeyer_abc_2013}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=53afaf76079780380091989e001331e4}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={Birk},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2dbf178133724eb85b53ae9fc9c823c0}{%
+           family={Neyer},
+           familyi={N\bibinitperiod},
+           given={Franz\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3bcda887d275eb82537700e6a889d0cd}{%
+           family={Neberich},
+           familyi={N\bibinitperiod},
+           given={Wiebke},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b416f2c93dce3d91791d38ceaaa4342}{%
+           family={Asendorpf},
+           familyi={A\bibinitperiod},
+           given={Jens\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef60fbb7a0704c6e665c167f27f647a5}
+      \strng{fullhash}{065f3ad27256ef4031940cc78b43b287}
+      \strng{bibnamehash}{065f3ad27256ef4031940cc78b43b287}
+      \strng{authorbibnamehash}{065f3ad27256ef4031940cc78b43b287}
+      \strng{authornamehash}{ef60fbb7a0704c6e665c167f27f647a5}
+      \strng{authorfullhash}{065f3ad27256ef4031940cc78b43b287}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We propose a triadic model of social desires directed at appetence/aversion of affiliation with friends (A), being alone (B), and closeness to one's partner (C) that account for individual differences in subjectively experienced needs for proximity and distance in serious couple relationships. The model assumes that A, B, and C can be conceptualized at the individual level as correlated latent factors measured by appetence and aversion indicators with opposite factor loadings and low shared method variance and at the couple level assuming the same measurement model and identical (co)variances for men and women. The model was confirmed with confirmatory factor analyses in a sex-balanced internet sample of 476 individuals and a longitudinal sample of both partners of 578 heterosexual couples by assessing the ABC desires with brief appetence/aversion scales. In both samples, the desires showed expected unique associations with the Big Five personality traits, loneliness and relationship satisfaction, perceived available support by friends and partner, and attachment style toward the partner and high 1-year stability in the longitudinal sample. We suggest that the ABC model helps to integrate research on couples' distance regulation along the lines of communal and agentic motivation. Copyright © 2012 European Association of Personality Psychology}
+      \field{day}{1}
+      \field{issn}{1099-0984}
+      \field{journaltitle}{European Journal of Personality}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shortjournal}{Eur. J. Pers.}
+      \field{shorttitle}{The {{ABC}} of {{Social Desires}}}
+      \field{title}{The {{ABC}} of Social Desires: {{Affiliation}}, Being Alone, and Closeness to Partner}
+      \field{volume}{27}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{442\bibrangedash 457}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/per.1857
+      \endverb
+    \endentry
+    \entry{hagemeyerWhenTogetherMeans2015}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=53afaf76079780380091989e001331e4}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={Birk},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85f96e933627c93bd2f28fd91bf924ab}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={Felix\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2dbf178133724eb85b53ae9fc9c823c0}{%
+           family={Neyer},
+           familyi={N\bibinitperiod},
+           given={Franz\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3bcda887d275eb82537700e6a889d0cd}{%
+           family={Neberich},
+           familyi={N\bibinitperiod},
+           given={Wiebke},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b416f2c93dce3d91791d38ceaaa4342}{%
+           family={Asendorpf},
+           familyi={A\bibinitperiod},
+           given={Jens\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54792004bcefe0ea30e20dbbca442084}
+      \strng{fullhash}{fd05cbb8ee0bd12ab3fee5fa28c50faa}
+      \strng{bibnamehash}{fd05cbb8ee0bd12ab3fee5fa28c50faa}
+      \strng{authorbibnamehash}{fd05cbb8ee0bd12ab3fee5fa28c50faa}
+      \strng{authornamehash}{54792004bcefe0ea30e20dbbca442084}
+      \strng{authorfullhash}{fd05cbb8ee0bd12ab3fee5fa28c50faa}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The present research addresses the interplay between agency motives and objective dyadic closeness with regard to the functioning of intimate couple relationships. Applying a Person × Situation approach, we hypothesized (a) that partners’ implicit and explicit agency motives predict their selection of dyadic living arrangements characterized by high or low objective closeness (coresidence or living-apart-together), (b) that agency motives have more negative effects on relationship functioning in coresident couples, (c) that agency motives predict agentic motivational states in coresident couples, and (d) that agentic states predict day-to-day changes in relationship satisfaction under conditions of high objective closeness. We found support for these between- and within-couple hypotheses in cross-sectional and prospective analyses of an age-heterogeneous sample of 548 heterosexual couples, and in a 2-week diary study with a subsample of 106 couples. Most notably, agentic motive dispositions and motivational states related to relationship functioning more negatively under conditions of high objective closeness. The overall positive effect of objective closeness on relationship functioning was diminished by strong agentic motivation. Perspectives for future research on agency motives in couple relationships are discussed. (PsycINFO Database Record (c) 2016 APA, all rights reserved)}
+      \field{issn}{0022-3514}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{month}{11}
+      \field{shortjournal}{Journal of Personality and Social Psychology}
+      \field{shorttitle}{When 'together' Means 'Too Close'}
+      \field{title}{When 'together' Means 'Too Close': {{Agency}} Motives and Relationship Functioning in Coresident and Living-Apart-Together Couples}
+      \field{volume}{109}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{813\bibrangedash 835}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/pspi0000031
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/WQE5MA32/Hagemeyer et al. - 2015 - When 'together' means 'too close' Agency motives .pdf
+      \endverb
+      \keyw{Motivation,implicit motives,Intimacy,RELATIONSHIP quality,Cohabitation,agency,living-apart-together,intimate relationships,2015,Living Arrangements}
+    \endentry
+    \entry{heckhausen_MotivationAction_2018}{collection}{}
+      \name{editor}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=ed5c5075499cae74e914b9c0998ed91c}{%
+           family={Heckhausen},
+           familyi={H\bibinitperiod},
+           given={Jutta},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=3d244c8aafdb89c27f75a102a0059a63}{%
+           family={Heckhausen},
+           familyi={H\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \strng{fullhash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \strng{bibnamehash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \strng{editorbibnamehash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \strng{editornamehash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \strng{editorfullhash}{106bdb6cd90ff7e3ece359c93faefeb5}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This third edition provides translations of all chapters of the most recent fifth German edition of Motivation and Action, including several entirely new chapters. It provides comprehensive coverage of the history of motivation, and introduces up-to-date theories and new research findings. Early sections provide a broad introduction to, and deep understanding of, the field of motivation psychology, mapping out different perspectives and research traditions. Subsequent chapters examine major themes of human motivation, including achievement, affiliation, and power motivation as well as the fundamentals of motivation psychology, such as motivated and goal oriented behaviors, implicit and explicit motives, and the regulation of development. In addition, the book discusses the roles of motivation in three practical fields: school and college, the workplace, and sports. Topics featured in this text include: Social Relationships and its effects on sexual or intimacy motivation. Conscious and unconscious motivators of behavior.Drives and incentives in the fields of achievement, intimacy, sociability and power.How the biochemistry and structures of our brain shapes motivated behavior.How to engage in intentional goal-directed behavior.The potential and limits of motivation and self-direction in shaping our lives.Motivation and Action, Third Edition, is a must-have resource for undergraduate and graduate students as well as researchers in the fields of motivation psychology, cognitive psychology, and social psychology, as well as personality psychology and agency. About the Editor: Jutta Heckhausen is the daughter of Heinz Heckhausen, who published "Motivation and Action” as a monograph in 1980 and who died in 1988 just before the 2nd edition came out. Dr. Heckhausen received her Ph.D. in 1985 from the University of Strathclyde, Glasgow with a dissertation about early mother-child interaction, and did her Habilitation in 1996 at the Free University of Berlin with a monograph about developmental regulation in adulthood. Dr. Heckhausen worked for many years at the Max Planck Institute for Human Development in Berlin, conducting research about the role of motivation in lifespan development. She is currently a professor of psychology at the University of California, Irvine.}
+      \field{edition}{3}
+      \field{isbn}{978-3-319-65093-7}
+      \field{langid}{english}
+      \field{title}{Motivation and {{Action}}}
+      \field{urlday}{26}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/V35VAT7K/9783319650937.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.springer.com/de/book/9783319650937
+      \endverb
+      \verb{url}
+      \verb https://www.springer.com/de/book/9783319650937
+      \endverb
+    \endentry
+    \entry{hofmann_CloseRelationshipsSelfregulation_2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=ff670bab1b142bc76027583150bfdf5c}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2e1060f07489652eaa21837670d3bc18}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Eli\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a11326802aa5a347570f28110b25adcf}{%
+           family={Fitzsimons},
+           familyi={F\bibinitperiod},
+           given={Gráinne\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38e56e4713010d802c4ba42af070dc4d}
+      \strng{fullhash}{bb8f322f41a4dcd6843acbc3f908be63}
+      \strng{bibnamehash}{bb8f322f41a4dcd6843acbc3f908be63}
+      \strng{authorbibnamehash}{bb8f322f41a4dcd6843acbc3f908be63}
+      \strng{authornamehash}{38e56e4713010d802c4ba42af070dc4d}
+      \strng{authorfullhash}{bb8f322f41a4dcd6843acbc3f908be63}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1315, 0022-3514}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{langid}{english}
+      \field{shorttitle}{Close Relationships and Self-Regulation}
+      \field{title}{Close Relationships and Self-Regulation: {{How}} Relationship Satisfaction Facilitates Momentary Goal Pursuit.}
+      \field{volume}{109}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{434\bibrangedash 452}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1037/pspi0000020
+      \endverb
+    \endentry
+    \entry{hofmann_WhatPeopleDesire_2012}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=ff670bab1b142bc76027583150bfdf5c}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e4c2824598553bdf63fab6d376be6dee}{%
+           family={Vohs},
+           familyi={V\bibinitperiod},
+           given={Kathleen\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a4cf150af4a1fd87dfd43878dfe9ec82}{%
+           family={Baumeister},
+           familyi={B\bibinitperiod},
+           given={Roy\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38e56e4713010d802c4ba42af070dc4d}
+      \strng{fullhash}{b2ab5ffd9c5c6e4215e44b336bef9119}
+      \strng{bibnamehash}{b2ab5ffd9c5c6e4215e44b336bef9119}
+      \strng{authorbibnamehash}{b2ab5ffd9c5c6e4215e44b336bef9119}
+      \strng{authornamehash}{38e56e4713010d802c4ba42af070dc4d}
+      \strng{authorfullhash}{b2ab5ffd9c5c6e4215e44b336bef9119}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0956-7976, 1467-9280}
+      \field{journaltitle}{Psychological Science}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{What People Desire, Feel Conflicted about, and Try to Resist in Everyday Life}
+      \field{volume}{23}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{582\bibrangedash 588}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/0956797612437426
+      \endverb
+    \endentry
+    \entry{karney_longitudinal_1995}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbd47214f587c9ff54f91639a35d5fc0}{%
+           family={Karney},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7f78dc3300b5927599e76c0caa7eaf7a}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{648b6f1559748e4427d4ad316f172faa}
+      \strng{fullhash}{648b6f1559748e4427d4ad316f172faa}
+      \strng{bibnamehash}{648b6f1559748e4427d4ad316f172faa}
+      \strng{authorbibnamehash}{648b6f1559748e4427d4ad316f172faa}
+      \strng{authornamehash}{648b6f1559748e4427d4ad316f172faa}
+      \strng{authorfullhash}{648b6f1559748e4427d4ad316f172faa}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0033-2909}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{shortjournal}{Psychological Bulletin}
+      \field{title}{The Longitudinal Course of Marital Quality and Stability: {{A}} Review of Theory, Method, and Mesearch}
+      \field{volume}{118}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 34}
+      \range{pages}{32}
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/B6WY5-46R0XFP-12/2/704bf89457e42e1d3f6cbee359f5feb2
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/B6WY5-46R0XFP-12/2/704bf89457e42e1d3f6cbee359f5feb2
+      \endverb
+    \endentry
+    \entry{kievit_SimpsonParadoxPsychological_2013}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=db18cb75905af126de995393044d18a7}{%
+           family={Kievit},
+           familyi={K\bibinitperiod},
+           given={Rogier},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=411281a8c272918ad9cac56f8de1a892}{%
+           family={Frankenhuis},
+           familyi={F\bibinitperiod},
+           given={Willem\bibnamedelima Eduard},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=08f4d0bab2fca48dfc68a39382f6c14d}{%
+           family={Waldorp},
+           familyi={W\bibinitperiod},
+           given={Lourens},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=65b66c163ae7aa90fd735ab96a8cce25}{%
+           family={Borsboom},
+           familyi={B\bibinitperiod},
+           given={Denny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{00c983dd9442bb8908ede1213d058aa0}
+      \strng{fullhash}{0c99281b930ab08f7fc6a225218900a7}
+      \strng{bibnamehash}{0c99281b930ab08f7fc6a225218900a7}
+      \strng{authorbibnamehash}{0c99281b930ab08f7fc6a225218900a7}
+      \strng{authornamehash}{00c983dd9442bb8908ede1213d058aa0}
+      \strng{authorfullhash}{0c99281b930ab08f7fc6a225218900a7}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The direction of an association at the population-level may be reversed within the subgroups comprising that population—a striking observation called Simpson’s paradox. When facing this pattern, psychologists often view it as anomalous. Here, we argue that Simpson’s paradox is more common than conventionally thought, and typically results in incorrect interpretations – potentially with harmful consequences. We support this claim by drawing on empirical results from cognitive neuroscience, behavior genetics, psychopathology, personality psychology, educational psychology, intelligence research, and simulation studies. We show that Simpson’s Paradox is most likely to occur when inferences are drawn across different levels of explanation (e.g., from populations to subgroups, or subgroups to individuals). We propose a set of statistical markers indicative of the paradox, and offer psychometric solutions for dealing with the paradox when encountered—including a toolbox in R for detecting Simpson’s Paradox. We show that explicit modeling of situations in which the paradox might occur not only prevents incorrect interpretations of data, but also results in a deeper understanding of what data tell us about the world.}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{langid}{english}
+      \field{shortjournal}{Front. Psychol.}
+      \field{shorttitle}{Simpson's Paradox in Psychological Science}
+      \field{title}{Simpson's Paradox in Psychological Science: {A} Practical Guide}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2013.00513
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/EKFPF4MU/Kievit et al. - 2013 - Simpson's paradox in psychological science a prac.pdf
+      \endverb
+      \keyw{Measurement,ecological fallacy,Paradox,Reductionism,simpson's paradox,statistical inference}
+    \endentry
+    \entry{kreft_IntroducingMultilevelModeling_1998}{book}{useprefix=true}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=812365f8fd38125616d4645f102d677a}{%
+           family={Kreft},
+           familyi={K\bibinitperiod},
+           given={Ita},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=adb24ee31c7f3aed61b02662f7d16c74}{%
+           family={Leeuw},
+           familyi={L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications, Ltd}%
+      }
+      \strng{namehash}{eec4f7de3ddbcab7db12880718c1f784}
+      \strng{fullhash}{eec4f7de3ddbcab7db12880718c1f784}
+      \strng{bibnamehash}{eec4f7de3ddbcab7db12880718c1f784}
+      \strng{authorbibnamehash}{eec4f7de3ddbcab7db12880718c1f784}
+      \strng{authornamehash}{eec4f7de3ddbcab7db12880718c1f784}
+      \strng{authorfullhash}{eec4f7de3ddbcab7db12880718c1f784}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-7619-5141-4 978-1-84920-936-6}
+      \field{title}{Introducing {{Multilevel Modeling}}}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4135/9781849209366
+      \endverb
+      \verb{urlraw}
+      \verb http://methods.sagepub.com/book/introducing-multilevel-modeling
+      \endverb
+      \verb{url}
+      \verb http://methods.sagepub.com/book/introducing-multilevel-modeling
+      \endverb
+    \endentry
+    \entry{lane_AbstractAssessingReliability_2010}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d31195efcd256558b4d1bcb2b42666db}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Sean\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e09406d6b6ab076e535b2b9165ff6601}{%
+           family={Shrout},
+           familyi={S\bibinitperiod},
+           given={Patrick\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2300fea390c557541e4d8e6f7b9900c}
+      \strng{fullhash}{d2300fea390c557541e4d8e6f7b9900c}
+      \strng{bibnamehash}{d2300fea390c557541e4d8e6f7b9900c}
+      \strng{authorbibnamehash}{d2300fea390c557541e4d8e6f7b9900c}
+      \strng{authornamehash}{d2300fea390c557541e4d8e6f7b9900c}
+      \strng{authorfullhash}{d2300fea390c557541e4d8e6f7b9900c}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{30}
+      \field{eprinttype}{pmid}
+      \field{issn}{0027-3171}
+      \field{journaltitle}{Multivariate Behavioral Research}
+      \field{month}{11}
+      \field{shorttitle}{Abstract}
+      \field{title}{Abstract: {{Assessing}} the {{Reliability}} of {{Within}}-{{Person Change Over Time}}: {{A Dynamic Factor Analysis Approach}}}
+      \field{volume}{45}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1027\bibrangedash 1027}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1080/00273171.2010.534380
+      \endverb
+      \verb{eprint}
+      \verb 26760733
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/KEUU6B79/00273171.2010.html
+      \endverb
+    \endentry
+    \entry{mcclelland_human_1987}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a8d7df79dfa72c13a9764021b3d6a1aa}{%
+           family={McClelland},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \strng{fullhash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \strng{bibnamehash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \strng{authorbibnamehash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \strng{authornamehash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \strng{authorfullhash}{a8d7df79dfa72c13a9764021b3d6a1aa}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-521-36951-7}
+      \field{title}{Human Motivation}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \keyw{Consciousness States; Motivation}
+    \endentry
+    \entry{medaglia_ReplyAdolfFried_2019}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=37c1d0af7a9bbc09488dbbbd18d55b76}{%
+           family={Medaglia},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2d6eaa64643c0000b7be895bb565e80b}{%
+           family={Jeronimus},
+           familyi={J\bibinitperiod},
+           given={Bertus\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dae018c1ba2128b0404870789bec5e43}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Aaron\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c6d6b1950c107712f0025296e4d59f6}
+      \strng{fullhash}{d08bfe2555c7da85cf92ab6b24322a80}
+      \strng{bibnamehash}{d08bfe2555c7da85cf92ab6b24322a80}
+      \strng{authorbibnamehash}{d08bfe2555c7da85cf92ab6b24322a80}
+      \strng{authornamehash}{9c6d6b1950c107712f0025296e4d59f6}
+      \strng{authorfullhash}{d08bfe2555c7da85cf92ab6b24322a80}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We thank Adolf and Fried (1) for their insightful commentary on our paper (2). We agree, in principle, that group-to-individual generalizability lies along a continuum. Some intraindividual and interindividual statistical estimates may be ergodic, sharing equivalent values across all statistical moments. Under these conditions, inferences from cross-sectional data could be applied to individuals. On the other end of this continuum, intra- and interindividual estimates are orthogonal, rendering them unrelated and nontransferable. Adolf and Fried (1) argue that under nonergodic conditions, conditional equivalence may still be achieved if the sources of nonergodicity can be identified, facilitating conditional inferences across levels of analysis. We agree that the notion of … [↵][1]1To whom correspondence should be addressed. Email: afisher\{at\}berkeley.edu. [1]: \#xref-corresp-1-1}
+      \field{day}{14}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shortjournal}{PNAS}
+      \field{shorttitle}{Reply to {{Adolf}} and {{Fried}}}
+      \field{title}{Reply to {{Adolf}} and {{Fried}}: {{Conditional}} Equivalence and Imperatives for Person-Level Science}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{201820221}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1073/pnas.1820221116
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/I8P4L7YP/1820221116.html
+      \endverb
+    \endentry
+    \entry{molenaar_implications_2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6bba10d193d08839f512610377394be4}{%
+           family={Molenaar},
+           familyi={M\bibinitperiod},
+           given={Peter\bibnamedelima C.M.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6bba10d193d08839f512610377394be4}
+      \strng{fullhash}{6bba10d193d08839f512610377394be4}
+      \strng{bibnamehash}{6bba10d193d08839f512610377394be4}
+      \strng{authorbibnamehash}{6bba10d193d08839f512610377394be4}
+      \strng{authornamehash}{6bba10d193d08839f512610377394be4}
+      \strng{authorfullhash}{6bba10d193d08839f512610377394be4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{It is argued that general mathematical-statistical theorems imply that standard statistical analysis techniques of inter-individual variation are invalid to investigate developmental processes. Developmental processes have to be analyzed at the level of individual subjects, using time series data characterizing the patterns of intra-individual variation. It is shown that standard statistical techniques based on the analysis of inter-individual variation appear to be insensitive to the presence of arbitrary large degrees of inter-individual heterogeneity in the population. An important class of nonlinear epigenetic models of neural growth is described which can explain the occurrence of such heterogeneity in brain structures and behavior. Links with models of developmental instability are discussed. A simulation study based on a chaotic growth model illustrates the invalidity of standard analysis of inter-individual variation, whereas time series analysis of intra-individual variation is able to recover the true state of affairs. © 2007 Wiley Periodicals, Inc. Dev Psychobiol 50: 60–69, 2008.}
+      \field{day}{1}
+      \field{issn}{1098-2302}
+      \field{journaltitle}{Developmental Psychobiology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Dev. Psychobiol.}
+      \field{shorttitle}{On the Implications of the Classical Ergodic Theorems}
+      \field{title}{On the Implications of the Classical Ergodic Theorems: {{Analysis}} of Developmental Processes Has to Focus on Intra-Individual Variation}
+      \field{volume}{50}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{60\bibrangedash 69}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/dev.20262
+      \endverb
+    \endentry
+    \entry{nezlek_PracticalGuideUnderstanding_2016}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=deb55580db39e8dc94d6ab777b11e67f}{%
+           family={Nezlek},
+           familyi={N\bibinitperiod},
+           given={John\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{fullhash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{bibnamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authorbibnamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authornamehash}{deb55580db39e8dc94d6ab777b11e67f}
+      \strng{authorfullhash}{deb55580db39e8dc94d6ab777b11e67f}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Research in Personality}
+      \field{month}{7}
+      \field{title}{A Practical Guide to Understanding Reliability in Studies of Within-Person Variability}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jrp.2016.06.020
+      \endverb
+    \endentry
+    \entry{schoebi_coregulation_2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b272d8bbe6d02e420dffa43b45f584df}{%
+           family={Schoebi},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b272d8bbe6d02e420dffa43b45f584df}
+      \strng{fullhash}{b272d8bbe6d02e420dffa43b45f584df}
+      \strng{bibnamehash}{b272d8bbe6d02e420dffa43b45f584df}
+      \strng{authorbibnamehash}{b272d8bbe6d02e420dffa43b45f584df}
+      \strng{authornamehash}{b272d8bbe6d02e420dffa43b45f584df}
+      \strng{authorfullhash}{b272d8bbe6d02e420dffa43b45f584df}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examined whether changes in individuals' affective states are associated with their partners' affect when spouses come together in daily life after having spent time apart while pursuing individual activities, as well as whether such associations are moderated by individual differences in interpersonal insecurity and perspective taking. For 7 consecutive days, spouses from 166 married couples reported their affect 6 times per day on 2 dimensions, hard affect (angry-calm) and soft affect (sad/depressed-upbeat/content). Within-couple analyses indicated that spouses' changes in hard affect covaried, particularly when they scored high on interpersonal insecurity. Moreover, husbands' changes in soft affect covaried with their wives' soft affect when the husbands scored high on perspective taking. The results emphasize the interconnectedness of spouses' feelings when they reunite, and they identify key individual difference variables that strengthen interpersonal transmission of emotion in close relationships. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)}
+      \field{issn}{1939-1293}
+      \field{journaltitle}{Journal of Family Psychology}
+      \field{month}{8}
+      \field{shortjournal}{Journal of Family Psychology}
+      \field{title}{The Coregulation of Daily Affect in Marital Relationships}
+      \field{volume}{22}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{595\bibrangedash 604}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1037/0893-3200.22.3.595
+      \endverb
+      \keyw{Marital Relations,Emotional States,affect,emotion,Emotional Security,crossover,interpersonal insecurity,marriage}
+    \endentry
+    \entry{schonbrodt_irt_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=bf8333f15cbb22f1bd3d000e0e5a7d5d}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b1965563673717293a1b00896aa2a260}{%
+           family={Gerstenberg},
+           familyi={G\bibinitperiod},
+           given={F.\bibnamedelimi X.\bibnamedelimi R.},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \strng{fullhash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \strng{bibnamehash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \strng{authorbibnamehash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \strng{authornamehash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \strng{authorfullhash}{8e8abcd24c6181f89ef57a88b2c7eca6}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Multiple inventories claiming to assess the same explicit motive (achievement, power, or affiliation) show only mediocre convergent validity. In three studies (N = 1685) the structure, nomological net, and content coverage of multiple existing motive scales was investigated with exploratory factor analyses. The analyses revealed four approach factors (achievement, power, affiliation, and intimacy) and a general avoidance factor with a facet structure. New scales (the Unified Motive Scales; UMS) were developed using IRT, reflecting these underlying dimensions. In comparison to existing questionnaires, the UMS have the highest measurement precision and provide short (six-item) and ultra-short (three-item) scales. In a fourth study (N = 96), the UMS demonstrated incremental validity over existing motive scales with respect to several outcome criteria.}
+      \field{issn}{0092-6566}
+      \field{journaltitle}{Journal of Research in Personality}
+      \field{shortjournal}{Journal of Research in Personality}
+      \field{shorttitle}{An {{IRT}} Analysis of Motive Questionnaires}
+      \field{title}{An {{IRT}} Analysis of Motive Questionnaires: {{The Unified Motive Scales}}}
+      \field{volume}{46}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{725\bibrangedash 742}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.jrp.2012.08.010
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/TAZK8HT8/S0092656612001353.html
+      \endverb
+      \keyw{item response theory,short scales,Structure of explicit motives,Questionnaire}
+    \endentry
+    \entry{schultheiss_ImplicitMotives_2010}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=db75caa6c93881a7606a386697add54a}{%
+           family={Schultheiss},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi C.},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5a8be64b68f7667d6089bb05ed645358}{%
+           family={Brunstein},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{00b32be963be8c9eb884d21d1f39e491}
+      \strng{fullhash}{00b32be963be8c9eb884d21d1f39e491}
+      \strng{bibnamehash}{00b32be963be8c9eb884d21d1f39e491}
+      \strng{authorbibnamehash}{00b32be963be8c9eb884d21d1f39e491}
+      \strng{authornamehash}{00b32be963be8c9eb884d21d1f39e491}
+      \strng{authorfullhash}{00b32be963be8c9eb884d21d1f39e491}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{isbn}{978-0-19-533515-6}
+      \field{month}{1}
+      \field{title}{Implicit {{Motives}}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/B873BN4Q/9780195335156.003.html
+      \endverb
+    \endentry
+    \entry{schultheiss_ImplicitMotives_inpress}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=db75caa6c93881a7606a386697add54a}{%
+           family={Schultheiss},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi C.},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae6e4988a0c567e2d38cf9e462a09eda}{%
+           family={Köllner},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c8fe38745dcdd7aeb906b0ab74e4ea5d}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={O.\bibnamedelimi P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1929d1a28ac5a4a6a539440679df7710}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY US}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{fullhash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{bibnamehash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{authorbibnamehash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{authornamehash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{authorfullhash}{17b185acb8e0b53d317423058b1f233f}
+      \strng{editorbibnamehash}{f71f297d6336fad6ca1d405f930dfa87}
+      \strng{editornamehash}{f71f297d6336fad6ca1d405f930dfa87}
+      \strng{editorfullhash}{f71f297d6336fad6ca1d405f930dfa87}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{(from the chapter) Implicit motives are motivational dispositions that operate outside of a person's conscious awareness and are aimed at the attainment of specific classes of incentives and the avoidance of specific classes of disincentives. In this chapter, I review the affective, cognitive, physiological, and behavioral functions of implicit motives; the assessment of motive dispositions; and the role of implicit motives in political, economic, and societal phenomena. I also outline a conceptual model to account for some key differences between implicit motives and conscious modes of goal striving. (PsycINFO Database Record (c) 2010 APA, all rights reserved) (chapter)}
+      \field{booktitle}{Handbook of Personality Psychology: {{Theory}} and Research (4th Ed.).}
+      \field{isbn}{978-1-59385-836-0}
+      \field{title}{Implicit Motives}
+      \field{year}{in press}
+      \field{pages}{603\bibrangedash 633}
+      \range{pages}{31}
+      \keyw{Motivation,implicit motives,Goals,Models,behavior,Emotions,PERSONALITY,motivational dispositions,incentives,avoidance,affect,cognition,physiology,goal striving,conceptual model}
+    \endentry
+    \entry{scott_CoordinatedAnalysisVariance_2018}{article}{}
+      \name{author}{11}{}{%
+        {{uniquename=0,uniquepart=base,hash=74a6e910635d25d76a4c87ce44060124}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Stacey\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=96461f2445f4f2e0d95cfb6148f54672}{%
+           family={Sliwinski},
+           familyi={S\bibinitperiod},
+           given={Martin\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=457eb996c65f031a7ecf680becc8f808}{%
+           family={Zawadzki},
+           familyi={Z\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=601d30481d5cd5c8e9da7f72438c0ab1}{%
+           family={Stawski},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d04c2103e7b295c7020149ace9508095}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinhyuk},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=43efc618f60573e44e7bb9772aacd8f7}{%
+           family={Marcusson-Clavertz},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ca0da629bd5f272002bf0dd665071b62}{%
+           family={Lanza},
+           familyi={L\bibinitperiod},
+           given={Stephanie\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e8f48843fc712af79c2175ffdc6a0652}{%
+           family={Conroy},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39bbe2bb7a8e7e44053843c0ebc2aabc}{%
+           family={Buxton},
+           familyi={B\bibinitperiod},
+           given={Orfeu},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=615f9be1338ab20fa87d74b570ebd47e}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7583a267c3b3f4a56517c000680aa138}{%
+           family={Smyth},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{716ffc6f5d61aa9ebcfabd49ed34d528}
+      \strng{fullhash}{c6fc00129ac9f47562af03b2e201710c}
+      \strng{bibnamehash}{74e6f8f0e224f30cf32db5ca287800cd}
+      \strng{authorbibnamehash}{74e6f8f0e224f30cf32db5ca287800cd}
+      \strng{authornamehash}{716ffc6f5d61aa9ebcfabd49ed34d528}
+      \strng{authorfullhash}{c6fc00129ac9f47562af03b2e201710c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{issn}{1073-1911, 1552-3489}
+      \field{journaltitle}{Assessment}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{A {{Coordinated Analysis}} of {{Variance}} in {{Affect}} in {{Daily Life}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{107319111879946}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/1073191118799460
+      \endverb
+    \endentry
+    \entry{shrout_Psychometrics_2012}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=25394aefce097cef2cb973d8e28d2632}{%
+           family={Shrout},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ff251440ca594996a0d7113186cd4c2b}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=68429b6d0837dc13308afbb9bb0a3d6e}{%
+           family={Mehl},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=41eeb4559d9e6a34b5472286272cdcc8}{%
+           family={Conner},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, US}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{fullhash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{bibnamehash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{authorbibnamehash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{authornamehash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{authorfullhash}{a3e8c5a650ac0f14a0e282e68e102624}
+      \strng{editorbibnamehash}{cde79e86485bd33b77ea215165645981}
+      \strng{editornamehash}{cde79e86485bd33b77ea215165645981}
+      \strng{editorfullhash}{cde79e86485bd33b77ea215165645981}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bringing together leading authorities, this unique handbook reviews the breadth of current approaches for studying how people think, feel, and behave in everyday environments, rather than in the laboratory. The volume thoroughly describes experience sampling methods, diary methods, physiological measures, and other self-report and non-self-report tools that allow for repeated, real-time measurement in natural settings. Practical guidance is provided to help the reader design a high-quality study, select and implement appropriate methods, and analyze the resulting data using cutting-edge statistical techniques. Applications across a wide range of psychological subfields and research areas are discussed in detail.}
+      \field{booktitle}{Handbook of {{Research Methods}} for {{Studying Daily Life}}}
+      \field{langid}{american}
+      \field{title}{Psychometrics}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{302\bibrangedash 320}
+      \range{pages}{19}
+      \verb{urlraw}
+      \verb https://www.guilford.com/books/Handbook-of-Research-Methods-for-Studying-Daily-Life/Mehl-Conner/9781462513055/contents
+      \endverb
+      \verb{url}
+      \verb https://www.guilford.com/books/Handbook-of-Research-Methods-for-Studying-Daily-Life/Mehl-Conner/9781462513055/contents
+      \endverb
+    \endentry
+    \entry{suessenbach_DominancePrestigeLeadership_2018a}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=bd07fed0e248bbad70009ed676ef2b6f}{%
+           family={Suessenbach},
+           familyi={S\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2b26874fe24993261f205c488e21fcd7}{%
+           family={Loughnan},
+           familyi={L\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85f96e933627c93bd2f28fd91bf924ab}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={Felix\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df4b4b7f01150f98717e619a6efea86c}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Adam\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1b219345d9be6a5e41de16f29c3444fd}{%
+           family={Back},
+           familyi={B\bibinitperiod},
+           given={Mitja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f12a1314b80981b8bd7414eae5aa64c1}
+      \strng{fullhash}{82b196d58f7afb7e7868041abe756670}
+      \strng{bibnamehash}{82b196d58f7afb7e7868041abe756670}
+      \strng{authorbibnamehash}{82b196d58f7afb7e7868041abe756670}
+      \strng{authornamehash}{f12a1314b80981b8bd7414eae5aa64c1}
+      \strng{authorfullhash}{82b196d58f7afb7e7868041abe756670}
+      \strng{editorbibnamehash}{1b219345d9be6a5e41de16f29c3444fd}
+      \strng{editornamehash}{1b219345d9be6a5e41de16f29c3444fd}
+      \strng{editorfullhash}{1b219345d9be6a5e41de16f29c3444fd}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{7}
+      \field{issn}{08902070}
+      \field{journaltitle}{European Journal of Personality}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{The {{Dominance}}, {{Prestige}}, and {{Leadership Account}} of {{Social Power Motives}}}
+      \field{title}{The {{Dominance}}, {{Prestige}}, and {{Leadership Account}} of {{Social Power Motives}}: {{Dominance}}, Prestige, and Leadership Motives}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1002/per.2184
+      \endverb
+    \endentry
+    \entry{winter_ManualScoringMotive_1994}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1378e19355666697e86832dfa801c8ce}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ann Arbor}%
+      }
+      \list{publisher}{1}{%
+        {University of Michigan}%
+      }
+      \strng{namehash}{1378e19355666697e86832dfa801c8ce}
+      \strng{fullhash}{1378e19355666697e86832dfa801c8ce}
+      \strng{bibnamehash}{1378e19355666697e86832dfa801c8ce}
+      \strng{authorbibnamehash}{1378e19355666697e86832dfa801c8ce}
+      \strng{authornamehash}{1378e19355666697e86832dfa801c8ce}
+      \strng{authorfullhash}{1378e19355666697e86832dfa801c8ce}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manual for Scoring Motive Imagery in Running Text (4th Edition)}
+      \field{year}{1994}
+      \field{dateera}{ce}
+    \endentry
+    \entry{zygar_MotiveDispositionsStates_2018}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=4ccc223ee081762ff41f54dd352be07a}{%
+           family={Zygar},
+           familyi={Z\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53afaf76079780380091989e001331e4}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={Birk},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6670b25505bfa46020646ff76a2d7fe2}{%
+           family={Pusch},
+           familyi={P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85f96e933627c93bd2f28fd91bf924ab}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={Felix\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9377db70fa2d214610e2fca35066d922}
+      \strng{fullhash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{bibnamehash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{authorbibnamehash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{authornamehash}{9377db70fa2d214610e2fca35066d922}
+      \strng{authorfullhash}{bb05012040c87a2452cdd2efcd47317b}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Embedded in a theoretically founded process model (termed Dynamics of Motive Satisfaction, ‘DynaMoS’), the present study examined the links between the implicit dispositional communion motive, everyday motivational dynamics, and relationship outcomes in couples. Within-subject processes are proposed to explain between-subject associations of dispositional motives and relationship satisfaction. For an empirical test of the model, data on the dispositional partner-related need for communion and global relationship satisfaction were obtained from 152 individuals in heterosexual relationships. In an extensive experience sampling spanning 2 weeks, a subsample of 130 individuals answered questions about their current motivational states, mood, state relationship satisfaction, and experiences with their partner five times a day. The results were largely consistent with the DynaMoS model: (1) individuals with a strong dispositional implicit communion motive reported more often to be in a communal motivational state; (2) communally motivated individuals were more likely to engage in subsequent instrumental behaviour; and (3) relationship experiences that potentially satisfy communion motivation led to more positive relationship outcomes when individuals were motivated before compared with when they were not. It is discussed how these results and the experience sampling method can foster our understanding of how dispositional characteristics translate into everyday processes and shape relationship outcomes. Copyright © 2018 European Association of Personality Psychology}
+      \field{issn}{1099-0984}
+      \field{journaltitle}{European Journal of Personality}
+      \field{langid}{english}
+      \field{shorttitle}{From {{Motive Dispositions}} to {{States}} to {{Outcomes}}}
+      \field{title}{From {{Motive Dispositions}} to {{States}} to {{Outcomes}}: {{An Intensive Experience Sampling Study}} on {{Communal Motivational Dynamics}} in {{Couples}}}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{306\bibrangedash 324}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/per.2145
+      \endverb
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/7SPU9X9I/per.html
+      \endverb
+      \keyw{traits,relationship satisfaction,experience sampling,implicit communion motives,states}
+    \endentry
+    \entry{zygar_MotiveDispositionsStates_2018a}{unpublished}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=4ccc223ee081762ff41f54dd352be07a}{%
+           family={Zygar},
+           familyi={Z\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53afaf76079780380091989e001331e4}{%
+           family={Hagemeyer},
+           familyi={H\bibinitperiod},
+           given={Birk},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6670b25505bfa46020646ff76a2d7fe2}{%
+           family={Pusch},
+           familyi={P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85f96e933627c93bd2f28fd91bf924ab}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={Felix\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Trier: Psychologisches Datenarchiv PsychData des Leibniz-Zentrums für Psychologische Information und Dokumentation ZPID}%
+      }
+      \strng{namehash}{9377db70fa2d214610e2fca35066d922}
+      \strng{fullhash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{bibnamehash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{authorbibnamehash}{bb05012040c87a2452cdd2efcd47317b}
+      \strng{authornamehash}{9377db70fa2d214610e2fca35066d922}
+      \strng{authorfullhash}{bb05012040c87a2452cdd2efcd47317b}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{From {{Motive Dispositions}} to {{States}} to {{Outcomes}}}
+      \field{title}{From Motive Dispositions to States to Outcomes: {{Research}} Data of an Intensive Experience Sampling Study on Communal Motivational Dynamics in Couples}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://doi.org/10.5160/psychdata.zrce16dy99
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5160/psychdata.zrce16dy99
+      \endverb
+      \keyw{traits,relationship satisfaction,experience sampling,implicit communion motives,states}
+    \endentry
+    \entry{zygar_RecallingExperiencesLooking_2019}{unpublished}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=4ccc223ee081762ff41f54dd352be07a}{%
+           family={Zygar},
+           familyi={Z\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bf8333f15cbb22f1bd3d000e0e5a7d5d}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{009cda7418c394da20f2727d8cc3d6e3}
+      \strng{fullhash}{009cda7418c394da20f2727d8cc3d6e3}
+      \strng{bibnamehash}{009cda7418c394da20f2727d8cc3d6e3}
+      \strng{authorbibnamehash}{009cda7418c394da20f2727d8cc3d6e3}
+      \strng{authornamehash}{009cda7418c394da20f2727d8cc3d6e3}
+      \strng{authorfullhash}{009cda7418c394da20f2727d8cc3d6e3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Relationship satisfaction can be assessed globally, in retrospection or in the moment as a state. Each assessment modality captures the evaluation of individuals’ relationships in a different resolution and comes with its own advantages and limitations. In two experience sampling studies (N = 130 and N = 510) which included global evaluations and a retrospection on the study period, the specificities of the different assessment modalities are examined. We show that 1) retrospective as well as global evaluations best describe the mean of relationship satisfaction states; 2) retrospection introduces an overestimation of the amount of annoyance individuals report experiencing in their relationship on a momentary basis, which results in an overall negative mean-level bias for relationship satisfaction; 3) this bias is most strongly moderated by global relationship satisfaction at the time of retrospection, but also more generally by satisfaction and identity-related beliefs; 4) momentary snapshots of relationship satisfaction get representative of global evaluations after approximately two weeks of sampling. The retrospective bias found in the current studies extends the general bias found for the retrospection of negative affective states to the domain of relationship evaluations. More generally, the results strengthen the understanding of the different assessment modalities, illustrating their validity, their limits thereof and assist researchers in designing effective experience sampling studies to avoid systematic measurement errors introduced by recall.}
+      \field{shorttitle}{Recalling Experiences}
+      \field{title}{Recalling Experiences: {{Looking}} at Momentary, Retrospective and Global Assessments of Relationship Satisfaction}
+      \field{urlday}{13}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/felix/Bibs und Backup/Zotero/storage/UMQTC6EM/Zygar and Schönbrodt - 2019 - Recalling experiences Looking at momentary, retro.pdf;/Users/felix/Bibs und Backup/Zotero/storage/7NFK84BC/mvynu.html
+      \endverb
+      \verb{urlraw}
+      \verb https://psyarxiv.com/mvynu/
+      \endverb
+      \verb{url}
+      \verb https://psyarxiv.com/mvynu/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
